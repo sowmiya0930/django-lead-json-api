@@ -85,14 +85,11 @@ class Lead(models.Model):
     "owner": null
 }
 ]
----
 
 ```md
-
-##5. Conclusion
-This project shows how to create a Lead model in Django and retrieve
-data in JSON format using Postman. It helps in understanding basic
-REST API development.
+## 6. Conclusion
+This project successfully demonstrates how to retrieve
+Django model data in JSON format using Postman.
 
 
 
