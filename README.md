@@ -64,6 +64,8 @@ class Lead(models.Model):
  ```json
 
 ## output
+
+```json
 [
 {
     "id": 3,
@@ -88,10 +90,13 @@ class Lead(models.Model):
 
 ```md
 
-## 5. Conclusion
+## Conclusion
 This project shows how to create a Lead model in Django and retrieve
 data in JSON format using Postman. It helps in understanding basic
 REST API development.
+
+
+
 
 
 
