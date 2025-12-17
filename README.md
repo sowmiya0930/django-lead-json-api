@@ -86,7 +86,7 @@ class Lead(models.Model):
 }
 ]
 
-```md
+```
 ## 6. Conclusion
 This project successfully demonstrates how to retrieve
 Django model data in JSON format using Postman.
